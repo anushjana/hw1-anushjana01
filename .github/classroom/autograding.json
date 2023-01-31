@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "HW1",
+      "setup": "sudo -H pip3 install pytest  && pip install -r requirements.txt",
+      "run": "pytest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
